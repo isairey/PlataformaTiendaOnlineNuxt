@@ -123,7 +123,7 @@ La aplicación está diseñada utilizando tecnologías modernas del ecosistema V
 # 📂 Estructura del proyecto
 
 ```bash
-NuxtStore/
+PlataformaTiendaOnlineNuxt/
 │
 ├── assets/                 # Recursos estáticos
 ├── components/             # Componentes reutilizables
@@ -156,7 +156,7 @@ NuxtStore/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/nuxt-store.git
+git clone https://github.com/isairey/PlataformaTiendaOnlineNuxt.git
 ```
 
 ---
@@ -164,7 +164,7 @@ git clone https://github.com/usuario/nuxt-store.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd nuxt-store
+cd PlataformaTiendaOnlineNuxt
 ```
 
 ---
